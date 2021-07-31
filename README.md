@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * NodeJS
 
 ## General
-*[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ## JavaScript
 * [Async,Await,Promises & Callbacks]()
 * [Event Loops]()
