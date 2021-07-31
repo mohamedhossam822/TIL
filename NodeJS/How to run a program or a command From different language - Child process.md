@@ -1,4 +1,4 @@
-Assume we have **sympotms_disease.py** file, we need to send some data to this file and we expect it to return some data as well
+Assume we have **sympotms_disease.py** file, we need to send some data to this file and we expect it to return some data as well<br>
 We run the following
 ```javascript
 const util = require('util');
