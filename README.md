@@ -4,7 +4,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * General
 * [JavaScript](https://github.com/mohamedhossam822/TIL/tree/main/JavaScript)
 * [NodeJS](https://github.com/mohamedhossam822/TIL/tree/main/NodeJS)
-* [Algorithms & Data structures](https://github.com/mohamedhossam822/TIL/tree/main/)
+* [Algorithms & Data structures](https://github.com/mohamedhossam822/TIL/tree/main/Algorithms%20%26%20Data%20structures)
 
 ## General
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -14,4 +14,4 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## NodeJS
 * [How to run a program or a command From different language - Child process](https://github.com/mohamedhossam822/TIL/blob/main/NodeJS/How%20to%20run%20a%20program%20or%20a%20command%20From%20different%20language%20-%20Child%20process.md)
 ## Algorithms & Data structures
-* Window Sliding Technique
+* [Window Sliding Technique](https://github.com/mohamedhossam822/TIL/blob/main/Algorithms%20&%20Data%20structures/Window%20Sliding%20Technique.md)
