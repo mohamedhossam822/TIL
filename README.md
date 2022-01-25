@@ -14,4 +14,4 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## NodeJS
 * [How to run a program or a command From different language - Child process](https://github.com/mohamedhossam822/TIL/blob/main/NodeJS/How%20to%20run%20a%20program%20or%20a%20command%20From%20different%20language%20-%20Child%20process.md)
 ## Algorithms & Data structures
-*Window Sliding Technique
+* Window Sliding Technique
